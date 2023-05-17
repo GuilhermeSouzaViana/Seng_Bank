@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Seng/Seng.iml" filepath="$PROJECT_DIR$/Seng/Seng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SengBankInter.iml" filepath="$PROJECT_DIR$/SengBankInter.iml" />
+    </modules>
+  </component>
+</project>
